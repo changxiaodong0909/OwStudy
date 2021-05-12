@@ -20,6 +20,7 @@ public class A {
         System.out.println("hot 3");
 
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
