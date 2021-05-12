@@ -18,6 +18,8 @@ public class A {
         System.out.println("hot 2 ");
         System.out.println("master ");
         System.out.println("hot 3");
+
+        System.out.println("push test");
     }
 
 }
