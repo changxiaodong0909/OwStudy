@@ -15,6 +15,7 @@ public class A {
         System.out.println(2);
 
         System.out.println("hot-fix");
+        System.out.println("hot 2 ");
     }
 
 }
