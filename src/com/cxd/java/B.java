@@ -7,4 +7,7 @@ package com.cxd.java;
  * @Description TODO
  */
 public class B {
+    public static void main(String[] args) {
+
+    }
 }
